@@ -1,39 +1,41 @@
-# Proyecto TFG – Pipeline de Análisis de Vídeos con IA
+# TFG - Análisis de Emociones y Rasgos Psicológicos en Vídeos
 
-Este proyecto automatiza la subida, análisis y conversión de vídeos de YouTube para generar un dataset en CSV con características de voz, expresión facial, personalidad y más, incluyendo una etiqueta de neurodivergencia (`variable`).
+Este repositorio contiene el Trabajo de Fin de Grado de Enrique Sanz Tur, centrado en el análisis automático de vídeos mediante inteligencia artificial para extraer emociones, rasgos de personalidad y características biométricas a partir de contenido audiovisual.
 
-## 🔁 Flujo de scripts
+## 📁 Estructura del repositorio
 
-### 1. `subida_masiva.py`
-- 📂 Lee todos los vídeos `.mp4` en la carpeta `Videos/`.
-- 🚀 Los sube a la API de Heratropic mediante URL prefirmada.
-- 🔗 Guarda un CSV `urls_resultado.csv` con el nombre de cada vídeo y su `result_url` correspondiente.
 
-> Requiere: carpeta `Videos/` con vídeos  
-> Genera: `urls_resultado.csv`
+## ⚙️ Scripts
+
+- **subida_masiva.py**: Automatiza la subida de vídeos a la API.
+- **descarga_resultados.py**: Descarga los resultados generados por la API en formato JSON.
+- **json_csv.py**: Convierte los archivos JSON a un único CSV homogéneo, rellenando campos faltantes con `null`.
+
+## 📊 Objetivo del proyecto
+
+Extraer automáticamente información emocional, lingüística y biométrica de vídeos que simulan testimonios de personas con diferentes neurodivergencias (TDAH, autismo, dislexia...). Estos datos son tratados para su análisis en estudios posteriores de comportamiento y personalidad.
+
+## 📦 Tecnologías utilizadas
+
+- Python 3.11
+- Git + GitHub
+- API externa: [Heratropic API](https://heratropic-main-c6ba0ae.d2.zuplo.dev/)
+- CSV, JSON y automatización de llamadas REST
+
+## ✅ Estado del proyecto
+
+✅ Subida y análisis de vídeos  
+✅ Obtención y limpieza de resultados  
+✅ Conversión a CSV  
+🕒 Análisis estadístico y visualización (fase siguiente)  
+
+## 🔐 Acceso
+
+Este repositorio es **privado** y está destinado únicamente para revisión académica.
 
 ---
 
-### 2. `descarga_resultados.py`
-- 📑 Lee el archivo `urls_resultado.csv`.
-- 🔄 Realiza una petición `curl` a cada `result_url` con tu API Key.
-- 💾 Guarda la respuesta (formato JSON) en la carpeta `resultados/` usando el nombre del vídeo.
-
-> Requiere: `urls_resultado.csv`  
-> Genera: `.json` individuales en `resultados/`
-
----
-
-### 3. `json_csv.py`
-- 📥 Lee todos los `.json` de `resultados/`.
-- 📊 Extrae los campos necesarios y los ordena según una cabecera específica.
-- ➕ Añade una última columna llamada `variable` (neurodivergencia) deducida del nombre del archivo.
-- 🧾 Genera el CSV final `resultados_final.csv`.
-
-> Requiere: carpeta `resultados/` con `.json`  
-> Genera: `resultados_final.csv`
-
----
-
-## 📂 Estructura esperada del proyecto
-
+> Enrique Sanz Tur – Universidad Pontificia Comillas  
+> Grado en Ingeniería de Telecomunicaciones y Business Analytics  
+> Tutor: [Nombre del tutor]  
+> Curso 2025-2026
