@@ -37,5 +37,5 @@ Este repositorio es **privado** y está destinado únicamente para revisión aca
 
 > Enrique Sanz Tur – Universidad Pontificia Comillas  
 > Grado en Ingeniería de Telecomunicaciones y Business Analytics  
-> Tutor: [Nombre del tutor]  
-> Curso 2025-2026
+> Tutor: David Martín-Corral Calvo  
+> Curso 2024-2025
