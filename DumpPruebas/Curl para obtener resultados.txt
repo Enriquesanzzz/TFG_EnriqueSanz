@@ -1,0 +1,53 @@
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/394ea0bd-1455-4c65-bf55-c740fe8ec82f" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/5540c1ae-4b95-46c8-b2bd-c5c68f9d3883" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/ac9d9204-0f57-451e-86b7-0b5b52a10bbf" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972" - Autismo2
+
+Dislexia2 : 
+/v1/result/432bdaa9-90b6-44c9-a334-7740fe3d9e2e
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/432bdaa9-90b6-44c9-a334-7740fe3d9e2e" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+Autismo3:
+/v1/result/7183b2d3-98e9-4b33-a357-dfd24df04c13
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/7183b2d3-98e9-4b33-a357-dfd24df04c13" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+
+TDAH1:
+d9150188-e831-4f98-b987-06e80f562d7d
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/d9150188-e831-4f98-b987-06e80f562d7d" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+Autismo4:
+
+
+ADHD1:
+/v1/result/781c18a0-4d0e-4780-aa07-23c6e6723f22
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/781c18a0-4d0e-4780-aa07-23c6e6723f22" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+TDAH7:
+/v1/result/bd2c8d00-7ac3-406c-8b01-124034075ada
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/bd2c8d00-7ac3-406c-8b01-124034075ada" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+
+Dislexia3:
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/431a07b0-9e8c-4d3b-9322-70173f50110d" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+d9150188-e831-4f98-b987-06e80f562d7d
+
+ADHD1.mp4,/v1/result/63612104-cc5c-4d54-b136-1f5880dece96
+ADHD2.mp4,/v1/result/1afe2c00-8488-40f2-b3e1-5bd90fd57ad8
+Autismo1.mp4,/v1/result/6c987224-499c-469a-b908-dffef38c48b4
+Autismo2.mp4,/v1/result/e34d8573-7371-486a-900c-32a6ee78fabe
+Autismo3.mp4,/v1/result/5b442dc9-a39a-47e2-ba05-b0fe880ee44b
+Autismo4.mp4,/v1/result/dde26f9f-1d9f-40c0-ac1b-681940dd22fc
+Dislexia1.mp4,/v1/result/89c2f7f7-1907-45de-b14b-ab79ec1dcba4
+Dislexia2.mp4,/v1/result/4f54d64c-8475-4714-8aec-04fd042e8100
+Dislexia3.mp4,/v1/result/5bfb8883-b526-4f40-a87d-75ead843ac7e
+TDAH1.mp4,/v1/result/66497733-4aa4-4530-9819-0062fc2b9206
+TDAH2.mp4,/v1/result/f365da71-bc94-4662-b995-faa7b8bf501e
+TDAH7.mp4,/v1/result/8118b2df-b017-4651-a055-95f273bb5e33
+
+curl -X GET "https://heratropic-main-c6ba0ae.d2.zuplo.dev/v1/result/63612104-cc5c-4d54-b136-1f5880dece96" -H "Authorization: Bearer zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+
+
