@@ -4,7 +4,7 @@ import json
 import requests
 import csv
 
-API_KEY = "zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" // API_KEY DEL USUARIO # type: ignore
 URL = "https://heratropic-main-c6ba0ae.d2.zuplo.dev"
 VIDEOS_DIR = "Videos"
 RESULTS_CSV = "urls_resultado.csv"

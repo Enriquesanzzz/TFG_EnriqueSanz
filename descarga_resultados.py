@@ -3,7 +3,7 @@ import os
 import subprocess
 import json
 
-API_KEY = "zpka_ed56a7576f47465095a2f3ee1d08c2ca_56c05972"
+API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" // API_KEY DEL USUARIO # type: ignore
 BASE_URL = "https://heratropic-main-c6ba0ae.d2.zuplo.dev"
 
 # Aseguramos que existe la carpeta resultados/
