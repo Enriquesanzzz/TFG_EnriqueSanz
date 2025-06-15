@@ -43,8 +43,8 @@ Estos datos son tratados para su análisis en estudios posteriores de comportami
 
 ## 👤 Autor
 
-**Enrique Sanz Tur**  
-Universidad Pontificia Comillas
-Tutor: **David Martín-Corral Calvo**
-Grado en Ingeniería de Telecomunicaciones y Business Analytics 
-Curso 2024–2025
+**Enrique Sanz Tur** 
+- Tutor: **David Martín-Corral Calvo**
+- Universidad Pontificia Comillas
+- Grado en Ingeniería de Telecomunicaciones y Business Analytics 
+- Curso 2024–2025
