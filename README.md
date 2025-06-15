@@ -30,7 +30,7 @@ Estos datos son tratados para su análisis en estudios posteriores de comportami
 
 ---
 
-## 📊 Estado del proyecto
+## 📊 Recorrido del proyecto
 
 | Fase                                 | Estado     |
 |--------------------------------------|------------|
