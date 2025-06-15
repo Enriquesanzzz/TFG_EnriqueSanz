@@ -1,4 +1,4 @@
-# 🎓 TFG · Análisis de Emociones y Rasgos Psicológicos en Vídeos
+# 🎓 TFG · Análisis Fenomenológico de Perfiles Neurodivergentes Usando Machile Learning e Inteligencia Artificial en Datos de Voz
 
 Este repositorio contiene el Trabajo de Fin de Grado de **Enrique Sanz Tur**, centrado en el análisis automático de vídeos mediante inteligencia artificial para extraer emociones, rasgos de personalidad y características biométricas a partir de contenido audiovisual.
 
