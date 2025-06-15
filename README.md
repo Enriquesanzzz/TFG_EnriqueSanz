@@ -45,6 +45,6 @@ Estos datos son tratados para su análisis en estudios posteriores de comportami
 
 **Enrique Sanz Tur**  
 Universidad Pontificia Comillas  
-Grado en Ingeniería de Telecomunicaciones y Business Analytics  
+Grado en Ingeniería de Telecomunicaciones y Business Analytics
 Tutor: *David Martín-Corral Calvo*  
 Curso 2024–2025
